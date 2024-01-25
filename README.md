@@ -1,5 +1,5 @@
 
-# GIT | Resumos
+# App de uma loja de tenis feito em React Native
 
 Este é um aplicativo de exemplo em React Native para uma loja de tênis. A interface é simples e permite a navegação entre a tela inicial e os detalhes de produtos.
 
